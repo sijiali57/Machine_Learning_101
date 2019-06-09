@@ -8,7 +8,7 @@
 
 total: 10 hours
 
-10 sessions with each ession 1 hour long.
+10 sessions with each session 1 hour long.
 
 **Audience**
  
@@ -25,16 +25,16 @@ Who is interested in Machine Learning and has some basic Possibility knowledge a
 | Course Name  | Details | Example Topics |
 |:------------- |:---------------:| -------------:|
 | 1. Introduction      | Course Setting; Machine Learning Concept and some applied ML demos |         FaceID, Translation|
-| 2. Supervised Learning  - 1    | Basic Concepts (training set; testing set, Supervised & Non-Supervised training, gression & classification) + Linear Regression       |         Dublin house property trending line |
-| 3. Supervised Learning -2 | Decision Tree (theory + application)        |   Chinese dating decsion system |
-| 4. Supervised Learning -3 | Nearest Neighbor (theory + application)        |   FaceID |
+| 2. Supervised Learning  - 1    | Basic Concepts (training set; testing set, Supervised & Non-Supervised training, regression & classification) + Linear Regression       |         Dublin house property trending line |
+| 3. Supervised Learning -2 | Decision Tree (theory + application)        |   Chinese dating decision system |
+| 4. Supervised Learning -3 | Nearest Neighbour (theory + application)        |   FaceID |
 | 5. Supervised Learning -4 | Support Vector Machine (theory + application)        |   CT scan canner system |
 | 6. TBC | TBC        |   TBC |
 
 
 ## Part 2 - Machine Learning (ML)
 **Concept**
-Machine Learning is a cross-over area including Possibility, Statistic, Approimation Theroy, Conves Analysis etc subjects. It's a subject to use computer to similate human behavior to gain learning ability to improve itself performance.
+Machine Learning is a cross-over area including Probability, Statistics, Approximation Theory, Convex Analysis etc. It's a subject to use computer to simulate human behaviour to gain learning ability to improve itself performance.
 
 **Area** Machine Learning is a sub-category of Artificial Intelligence.
 
@@ -53,7 +53,7 @@ Machine Learning is a cross-over area including Possibility, Statistic, Approima
 ```Machine learning is an area of artificial intelligence concerned with the study of computer algorithms that improve automatically through experience. In practice, this involves creating programs that optimize a performance criterion through the analysis of data. ```
 
 
-**Learning** According to Experience (E) and a series tasks (T) with certain performance (P), if the machine get more E to achieve T with higher P then this machine has learning ability.
+**Learning** According to Experience (E) and series of tasks (T) within certain performance (P), if the machine get more E to achieve T with better P then this machine has learning ability.
 
 For example:
 AlphaGo, Voice recoginization and Auto-drive
@@ -79,7 +79,7 @@ AlphaGo, Voice recoginization and Auto-drive
 * Daily life transfer from Alibaba [Link for demo](https://www.youtube.com/watch?v=336YkwayCD4)
 
 
-## Part 4 Referrence
+## Part 4 Reference
 
 *  **Books**
 
