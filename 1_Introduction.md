@@ -22,6 +22,7 @@ Who is interested in Machine Learning and has some basic Possibility knowledge a
 
 **Course Setting**
 
+<<<<<<< HEAD:1_Introduction.md
 | Course Name  | Details | Example Topics |
 |:------------- |:---------------:| -------------:|
 | 1. Introduction      | Course Setting; Machine Learning Concept and some applied ML demos |         FaceID, Translation|
@@ -31,6 +32,16 @@ Who is interested in Machine Learning and has some basic Possibility knowledge a
 | 5. Supervised Learning -4 | Support Vector Machine (theory + application)        |   CT scan canner system |
 | 6. TBC | TBC        |   TBC |
 
+=======
+| Course Session  | Course Name  | Details |
+|:------------- |:------------- |:---------------:|
+| 1 |  Introduction      | Course Setting; Machine Learning Concept and some applied ML demos | 
+|  2  |  General Machine Learning Approach    |     Data, Model, Algorithm (Data Extracting >> Data Minding >> Data Model >> Usage)    |  
+|  3  | Supervised Learning 1 |    Linear Regression    |
+|  4  | Supervised Learning 2 |    Decision Tree Classification   |
+|  4  | Supervised Learning 2 |    Decision Tree Classification   |
+|  4  | Supervised Learning 2 |    Decision Tree Classification   |
+>>>>>>> update:1_Introduction/1_Introduction.md
 
 ## Part 2 - Machine Learning (ML)
 **Concept**
