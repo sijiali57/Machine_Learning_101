@@ -29,3 +29,7 @@ Who is interested in Machine Learning and has some basic Possibility knowledge a
 | 4. Supervised Learning -3 | Nearest Neighbour (theory + application)        |   FaceID |
 | 5. Supervised Learning -4 | Support Vector Machine (theory + application)        |   CT scan canner system |
 | 6. TBC | TBC        |   TBC |
+
+
+**How to get Python3 on MAC**
+https://opensource.com/article/19/5/python-3-default-mac
